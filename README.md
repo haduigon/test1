@@ -24,4 +24,4 @@ Screenshots are bellow:
 
 What I used:
 
-[![React Context](https://img.shields.io/badge/React%20Context-16.x-blue)](https://reactjs.org/docs/context.html)
+[![React Context](https://img.shields.io/badge/React%20Context-18.3.1-blue)](https://reactjs.org/docs/context.html)
