@@ -25,4 +25,4 @@ Screenshots are bellow:
 What I used:
 
 [![React Context](https://img.shields.io/badge/React%20Context-18.3.1-blue)](https://reactjs.org/docs/context.html)
-[![Axios](https://img.shields.io/badge/Axios-1.7.2-blue)](https://www.npmjs.com/package/axios)
+[![Axios](https://img.shields.io/badge/Axios-1.7.2-orange)](https://www.npmjs.com/package/axios)
